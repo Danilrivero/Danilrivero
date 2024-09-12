@@ -14,8 +14,8 @@
 ---
 ✨ I'm a Robotics Engineer with experience in Electronics and Mechatronics.
 
-- Electronics, Robotics and Mechatronics Engineer
-- M.E Mechatronics & Robotics
+- BSc Electronics, Robotics and Mechatronics Engineering
+- MSc Mechatronics & Robotics
 - Currently working as a Robotics Researcher @ [TECNALIA](https://www.tecnalia.com/)
 
 <!-- SKills -->
