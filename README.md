@@ -109,3 +109,7 @@ Extensive experience developing intelligent robotic systems using ROS/ROS2 ecosy
     <img src="https://img.shields.io/badge/SolidWorks-00A1E0?style=flat-square&logo=SolidWorks&logoColor=white" alt="SolidWorks">
   </a>
 </p>
+
+<!-- Profile Views Counter (hidden) -->
+<img src="https://komarev.com/ghpvc/?username=Danilrivero&color=blue&style=flat" width="1" height="1" />
+
