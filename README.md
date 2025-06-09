@@ -16,17 +16,6 @@
 - MSc Mechatronics & Robotics Engineering
 - Currently working as a Robotics Researcher @ [TECNALIA](https://www.tecnalia.com/)
 
-## Professional Experience
-- **Robotics Researcher at TECNALIA**
-  - Developing advanced robotics solutions for industrial flexibility
-  - Implementing computer vision and AI algorithms for robotic perception
-  - Creating teleoperation and navigation systems for mobile robots
-
-- **Researcher at Robotics Space Lab, UMA**
-  - Developed navigation algorithms for lunar rovers in ESA and GMV projects
-  - Focused on teleoperation and navigation algorithms for mobile platforms
-  - Served as Team Manager of the UMA rescue robotics team
-
 ## Technical Expertise
 Extensive experience developing intelligent robotic systems using ROS/ROS2 ecosystems. My expertise includes implementing advanced perception systems with computer vision and deep learning models for object detection and recognition. I specialize in autonomous navigation using industry-standard frameworks and creating complete robotics solutions from simulation to real-world deployment.
 
